@@ -220,6 +220,6 @@ MIT License - see [LICENSE](./LICENSE)
 
 ---
 
-**Built with ❤️ by [Cognio Labs](https://cogniolab.com)**
+**Built with ❤️ by [Cognio Lab](https://cogniolab.com)**
 
-*MicroGPT Agent SDK is built and maintained by Cognio Labs, creators of production AI agent infrastructure.*
+*MicroGPT Agent SDK is built and maintained by Cognio Lab, creators of production AI agent infrastructure.*
