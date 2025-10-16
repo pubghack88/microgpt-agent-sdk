@@ -218,6 +218,8 @@ MIT License - see [LICENSE](./LICENSE)
 - GitHub Issues: [Report bugs or request features](https://github.com/cogniolab/microgpt-agent-sdk/issues)
 - Email: dev@cogniolab.com
 
-## Built by Cognio AI Lab
+---
 
-MicroGPT Agent SDK is built and maintained by [Cognio AI Lab](https://github.com/cogniolab), creators of production AI agent infrastructure.
+**Built with ❤️ by [Cognio Labs](https://cogniolab.com)**
+
+*MicroGPT Agent SDK is built and maintained by Cognio Labs, creators of production AI agent infrastructure.*
