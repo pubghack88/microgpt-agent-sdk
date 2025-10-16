@@ -213,10 +213,15 @@ We welcome contributions! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for gu
 
 MIT License - see [LICENSE](./LICENSE)
 
-## Support
+## 💬 Community
 
-- GitHub Issues: [Report bugs or request features](https://github.com/cogniolab/microgpt-agent-sdk/issues)
-- Email: dev@cogniolab.com
+Join our community to ask questions, share ideas, and connect with other developers building production-ready AI agents!
+
+- **[GitHub Discussions](https://github.com/cogniolab/microgpt-agent-sdk/discussions)** - Ask questions, share your work, and discuss best practices
+- **[GitHub Issues](https://github.com/cogniolab/microgpt-agent-sdk/issues)** - Bug reports and feature requests
+- **Email**: dev@cogniolab.com
+
+We're building a supportive community where developers help each other create robust, production-ready AI agents. Whether you're just getting started or scaling to production, your questions and contributions are welcome!
 
 ---
 
